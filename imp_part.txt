@@ -1,0 +1,91 @@
+                                              <div class="filters text-center">
+							<ul class="nav nav-pills">
+								<li class="active"><a href="#" data-filter="*">All</a></li>
+								<li><a href="#" data-filter=".nature">Nature</a></li>
+								<li><a href="#" data-filter=".architecture">Architecture</a></li>
+								<li><a href="#" data-filter=".food">Food</a></li>
+								<li><a href="#" data-filter=".shopping">night-life</a></li>
+							</ul>
+						</div>
+						<!-- isotope filters end -->
+
+						<!-- portfolio items start -->
+						<div class="isotope-container row grid-space-20">
+							<div class="col-sm-6 col-md-3 isotope-item web-design">
+								<div class="image-box">
+									<div class="overlay-container">
+										<img src="images/portfolio-1.jpg" alt="">
+										<a class="overlay" data-toggle="modal" data-target="#project-1">
+											<i class="fa fa-search-plus"></i>
+											 
+										</a>
+									</div>
+									<a class="btn btn-default btn-block" data-toggle="modal" data-target="#project-1">Aaliya beach</a>
+								</div>
+								<!-- Modal -->
+								<div class="modal fade" id="project-1" tabindex="-1" role="dialog" aria-labelledby="project-1-label" aria-hidden="true">
+									<div class="modal-dialog modal-lg">
+										<div class="modal-content">
+											<div class="modal-header">
+												<button type="button" class="close" data-dismiss="modal"><span aria-hidden="true">&times;</span><span class="sr-only">Close</span></button>
+												<h4 class="modal-title" id="project-1-label">Aaliya beach</h4>
+											</div>
+											<div class="modal-body">
+												
+												<div class="row">												 
+													<div class="col-md-12">
+														<img src="images/portfolio-1.jpg" alt="">
+														<br/>
+														<h3>Location</h3>
+														<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3890.628793908684!2d80.24775351430287!3d12.802590222029446!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3a52516a920d8345%3A0x891bb969dc15cd94!2sAaliya%20Beach!5e0!3m2!1sen!2sin!4v1620757752048!5m2!1sen!2sin" 
+														width="200" height="200" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+														<br/>
+														<h3>Discription</h3>
+														<p>This beach is near to kovalam beach in old 
+	                                                       mahabalipuram road, near this beach you will able to see 
+	                                                       taj fisherman resort around 1-2 km away from the beach 
+	                                                       beach is very clean and the environment is very sporty.</p>
+													</div>
+												</div>
+											</div>
+											<div class="modal-footer">
+											<button type="button" class="btn btn-sm btn-default" data-dismiss="modal">Close</button>
+											</div>
+										</div>
+									</div>
+								</div>
+								
+							
+			</div>
+		</section>
+		<Center><section id="add-gems" class="price-table secPadding">
+    	 <!--<div class="container text-center"> 
+         <div class="heading">
+            <h1 class="text-center title" id="add-gems">Add Gem$</h1>
+				<div class="separator"></div>
+				<p class="lead text-center">It is the most important part of this website, 
+				If you are a local citizen <br> you will be rewards by some point 
+				or vouchers by adding GEM$ (hidden places) to this website.</p>
+				<br>	
+          </div> 
+         	 
+         </div>
+         
+<b><h2 class="glow">Add Gem$</h2>
+<p>It is the most important part of this website, If you are a local citizen
+you will be rewards by some point or vouchers by adding GEM$ (hidden places) to this website.</p>
+
+<form action="#">
+<p>title</p>
+  <input type="text" id="title" name="title">
+  <p>Discription</p>
+  <input type="text" id="Discription" name="Discription">
+  <p>location</p>
+  <input type="text" id="location" name="location">
+<p>Upload image</p>
+  <input type="file" id="myFile" name="Upload image">
+  <br>
+  <br>
+<input type="submit"></center>		 
+    </section></b>
+		
